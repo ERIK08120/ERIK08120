@@ -1,0 +1,17 @@
+CleanGate Smart Hygiene Door - Website
+
+Ordner:
+  index.html      Aufbau und Texte
+  css/style.css   Design (Farben, Rundungen, Layout)
+  css/fonts.css   Schriften, eingebettet (laeuft offline)
+  js/main.js      Alle Animationen und Funktionen (Zaehlen, Einblenden, Anleitung, Formular)
+  images/         Bilder
+  video/          Optional: ablauf.mp4 hineinlegen, dann erscheint der Videoblock
+
+Starten:
+  Windows: Start-Windows.bat (eigenes Fenster) oder Server-Windows.bat (http://localhost:8000)
+  Mac:     Start-Mac.command oder Server-Mac.command
+  Oder index.html in einen Browser ziehen.
+
+Online stellen: den ganzen Ordner bei einem Hoster hochladen (z. B. Netlify Drop). Es gibt keine Abhaengigkeit zu Claude.
+Das Formular sendet keine Daten, dafuer braucht es ein Backend oder einen Formulardienst.
